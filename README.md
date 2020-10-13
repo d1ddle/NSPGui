@@ -11,11 +11,13 @@ Test files dumped using Atmosphere CFW, nxdumptool and Hekate.
 Alpha 1.0.1.1
 
 
+
 To Use the Program, Select the folder in which the separted files are kept.
 Must just be *.?? (files, no suffix) and named in order of dump.
 EG; 
 
 00    (file)
+
 01    (file)
 
 Then, enter the name of the output NSP. Ususally if you dump using nxdumptool, you will find a folder named the NSP title. This is the folder you select.
