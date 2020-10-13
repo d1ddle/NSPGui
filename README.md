@@ -11,6 +11,8 @@ Test files dumped using Atmosphere CFW, nxdumptool and Hekate.
 Alpha 1.0.1.1
 
 
+Find the program in the "\bin\releases\" folder.
+
 To Use the Program, Select the folder in which the separted files are kept.
 Must just be *.?? (files, no suffix) and named in order of dump.
 EG; 
