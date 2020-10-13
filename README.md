@@ -8,10 +8,11 @@ Visual Studio VB.NET 4.7.0 framework
 Program tested in Windows only. 
 Test files dumped using Atmosphere CFW, nxdumptool and Hekate. 
 
-Alpha 1.0.1.1
+Release 1.2.0.0
 
 
 Find the program in the "\bin\releases\" folder.
+Or the "\bin\debug\" folder.
 
 To Use the Program, Select the folder in which the separted files are kept.
 Must just be *.?? (files, no suffix) and named in order of dump.
