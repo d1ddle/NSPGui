@@ -8,7 +8,7 @@ Visual Studio VB.NET 4.7.0 framework
 Program tested in Windows only. 
 Test files dumped using Atmosphere CFW, nxdumptool and Hekate. 
 
-Release 1.2.0.0
+## Release 1.2.0.0
 
 
 Find the program in the "\bin\releases\" folder.
