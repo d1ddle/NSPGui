@@ -6,7 +6,9 @@ In the future I'm thinking of adding other capabilities related to Switch Home B
 
 Visual Studio VB.NET 4.7.0 framework 
 Program tested in Windows only. 
-Test files dumped using Atmosphere CFW, nxdumptool and Hekate. 
+Test files dumped using Atmosphere CFW, nxdumptool and Hekate.
+
+**Head to the _Releases_ page to download the latest build.**
 
 ## Release 1.2.0.0
 
